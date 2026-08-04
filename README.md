@@ -37,9 +37,9 @@ I'm passionate about building modern, responsive, and user-friendly websites. I 
 
 ### 📁 Featured Projects
 
-- 🎨 **Animation Design**
-- 🌐 **Connect**
-- 🏠 **Tortok Home**
+- 🎨 [Animation Design](https://github.com/ahmedtitly715/Animation-design)
+- 🌐 [Connect](https://github.com/ahmedtitly715/Cannect)
+- 🏠 [Tortok Home](https://github.com/ahmedtitly715/Tortok-Home)
 
 ---
 
