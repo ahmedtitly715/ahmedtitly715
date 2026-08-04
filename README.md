@@ -1,27 +1,31 @@
 # Hi, I'm Titly Ahmed 👋
 
-## 🚀 Aspiring Front-End Developer
+### 🚀 Aspiring Front-End Developer
 
 I'm passionate about building modern, responsive, and user-friendly websites. I enjoy turning ideas into clean, functional, and visually appealing web experiences while continuously improving my skills.
 
-## 💻 Tech Stack
+---
 
-- HTML5
-- CSS3
-- JavaScript
-- React (Learning)
-- Git
-- GitHub
-- Responsive Web Design
+### 💻 Tech Stack
 
-## 🌱 Currently Learning
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-- React
-- Modern JavaScript (ES6+)
+---
+
+### 🌱 Currently Learning
+
+- React & Modern JavaScript (ES6+)
 - UI/UX Best Practices
-- Front-End Development
+- Responsive & Interactive Web Design
 
-## 🎯 Goals
+---
+
+### 🎯 Goals
 
 - Build high-quality web applications
 - Create real-world projects
@@ -29,32 +33,20 @@ I'm passionate about building modern, responsive, and user-friendly websites. I 
 - Start freelancing and remote work
 - Keep learning new technologies
 
-## 📂 Featured Projects
+---
 
-- 🎨 Animation Design
-- 🌐 Connect
-- 🏠 Tortok Home
+### 📁 Featured Projects
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/ahmedtitly715
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titly-ahmed-6a5996427/)
+- 🎨 **Animation Design**
+- 🌐 **Connect**
+- 🏠 **Tortok Home**
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as a Front-End Developer.
+### 📫 Connect With Me
 
-<!--
-**ahmedtitly715/ahmedtitly715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/titly-ahmed-6a5996427/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmedtitly715)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as a Front-End Developer.*
