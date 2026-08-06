@@ -1,6 +1,4 @@
-# Hi, I'm Titly Ahmed 👋
-
-### 🚀 Aspiring Front-End Developer
+🚀 Full-Stack Web Developer | HTML • CSS • JavaScript • React • PHP • MySQL
 
 I'm passionate about building modern, responsive, and user-friendly websites. I enjoy turning ideas into clean, functional, and visually appealing web experiences while continuously improving my skills.
 
