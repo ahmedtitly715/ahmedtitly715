@@ -1,6 +1,6 @@
 🚀 Full-Stack Web Developer | HTML • CSS • JavaScript • React • PHP • MySQL
 
-I'm passionate about building modern, responsive, and user-friendly websites. I enjoy turning ideas into clean, functional, and visually appealing web experiences while continuously improving my skills.
+I'm passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into clean, functional, and visually appealing web experiences while continuously improving my skills.
 
 ---
 
@@ -10,6 +10,8 @@ I'm passionate about building modern, responsive, and user-friendly websites. I 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
@@ -17,16 +19,16 @@ I'm passionate about building modern, responsive, and user-friendly websites. I 
 
 ### 🌱 Currently Learning
 
+- PHP & MySQL / MySQLi Database Management
 - React & Modern JavaScript (ES6+)
-- UI/UX Best Practices
-- Responsive & Interactive Web Design
+- Full-Stack Architecture & API Integration
 
 ---
 
 ### 🎯 Goals
 
-- Build high-quality web applications
-- Create real-world projects
+- Build scalable full-stack web applications
+- Create real-world projects with dynamic databases
 - Contribute to open-source
 - Start freelancing and remote work
 - Keep learning new technologies
@@ -47,4 +49,4 @@ I'm passionate about building modern, responsive, and user-friendly websites. I 
 
 ---
 
-⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as a Front-End Developer.*
+⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as a Web Developer.*
